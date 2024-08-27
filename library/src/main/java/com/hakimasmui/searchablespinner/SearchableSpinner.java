@@ -22,6 +22,8 @@ import androidx.annotation.Nullable;
 import java.util.ArrayList;
 import java.util.List;
 
+import io.jitpack.api.R;
+
 public class SearchableSpinner extends LinearLayout {
 
     LinearLayout linSpinner;
