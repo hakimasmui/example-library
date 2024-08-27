@@ -1,4 +1,4 @@
-package io.jitpack.api;
+package com.hakimasmui.searchablespinner;
 
 import android.content.Context;
 import android.graphics.Typeface;

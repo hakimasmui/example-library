@@ -1,4 +1,4 @@
-package io.jitpack.api;
+package com.hakimasmui.searchablespinner;
 
 import android.app.AlertDialog;
 import android.content.Context;
