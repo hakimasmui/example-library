@@ -1,4 +1,4 @@
-package com.hakimasmui.searchablespinner;
+package io.jitpack.api;
 
 import android.content.Context;
 import android.content.res.Configuration;

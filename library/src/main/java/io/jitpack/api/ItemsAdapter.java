@@ -1,4 +1,4 @@
-package com.hakimasmui.searchablespinner;
+package io.jitpack.api;
 
 import android.content.Context;
 import android.graphics.Typeface;
@@ -12,8 +12,6 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
 import java.util.List;
-
-import io.jitpack.api.R;
 
 public class ItemsAdapter extends ArrayAdapter<String> {
     Typeface font;

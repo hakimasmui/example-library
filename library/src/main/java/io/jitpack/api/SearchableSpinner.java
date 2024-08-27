@@ -1,4 +1,4 @@
-package com.hakimasmui.searchablespinner;
+package io.jitpack.api;
 
 import android.app.AlertDialog;
 import android.content.Context;
@@ -21,8 +21,6 @@ import androidx.annotation.Nullable;
 
 import java.util.ArrayList;
 import java.util.List;
-
-import io.jitpack.api.R;
 
 public class SearchableSpinner extends LinearLayout {
 
